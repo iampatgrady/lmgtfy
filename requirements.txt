@@ -1,2 +1,4 @@
 Flask
-qunicorn
+gunicorn
+beautifulsoup4
+requests
